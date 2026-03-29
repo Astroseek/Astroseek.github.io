@@ -7,7 +7,7 @@ const links = [
   },
   {
     label: 'Twitter / X',
-    handle: '@astroseeek',
+    handle: '@astroseeeek',
     url: 'https://x.com/astroseeeek',
     desc: 'コンテスト結果・報告など',
   },
